@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "488270523598",
+    "project_id": "quiztime-4200a",
+    "storage_bucket": "quiztime-4200a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488270523598:android:350ba2eb6095998f4eb49f",
+        "android_client_info": {
+          "package_name": "com.example.quiztime"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6zcqQi2BSvYR3NWqyA-z4GWvebItFHBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
